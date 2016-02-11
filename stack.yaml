@@ -1,0 +1,11 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- blaze-bootstrap-0.1.0.1
+- digestive-bootstrap-0.1.0.1
+- digestive-functors-blaze-0.6.0.6
+- text-1.2.2.0
+- Spock-0.10.0.1
+resolver: lts-3.20
